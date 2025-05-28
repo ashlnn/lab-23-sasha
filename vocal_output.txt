@@ -1,0 +1,12 @@
+Name: Anna Petrenko
+Genre: vocal singing
+Age: 12
+Gender: female
+City: Kyiv
+
+Name: Oksana Dmytruk
+Genre: vocal singing
+Age: 11
+Gender: female
+City: Odesa
+
